@@ -1,2 +1,4 @@
 # muSR
-Simulation of muon spectroscoy.
+Simulation of μSR spectroscopy.
+
+This is the code at the end of the Physics Project.
