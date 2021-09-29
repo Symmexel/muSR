@@ -8,4 +8,4 @@ The two most notable goals of this project were to:
 While I have finished the project, over the next week or so, I plan to rewrite/refactor the original code to have a more ergonomic and flexible API.
 
 ## References
-[1] https://arxiv.org/pdf/2003.02762.pdf
+[<a id="1">1</a>] https://arxiv.org/pdf/2003.02762.pdf
