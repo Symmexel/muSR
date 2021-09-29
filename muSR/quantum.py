@@ -3,7 +3,7 @@ import numpy as np
 def partial_trace2(density_matrix: np.ndarray, index: int) -> np.ndarray:
     """
     Takes an operator density_matrix belonging to the 2**N dimensional Hilbert space
-    formed from the tensor product of 2 dimensional subspaces, 0,...,N.
+    formed from the tensor product of the 2 dimensional subspaces, 0,...,N.
 
     Returns the partial trace over all subspaces other than index.
     """
